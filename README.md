@@ -1,1 +1,3 @@
-This is my first commit
+This is my first commite
+
+Сделан нормально воспринимаемый вывод
